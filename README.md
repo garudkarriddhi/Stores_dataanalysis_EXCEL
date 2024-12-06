@@ -21,10 +21,10 @@ https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/dashboard_
 ![dashboard_image](https://github.com/user-attachments/assets/ee89f7ff-698d-42aa-adc1-b142f95a61c4)
 
 ## Insights:
-Women are more likely to buy compared to men (~65%)
-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
-Adult age group (30-49 yrs) is maximum contributing (~50%)
-Amazon, Flipkart and Myntra channels are max contributing (~80%)
+• Women are more likely to buy compared to men (~65%)
+• Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+• Adult age group (30-49 yrs) is maximum contributing (~50%)
+• Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
 ## Conclusion:
 The analysis concludes that the targeted audience mostly consists of women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. To effectively engage this demographic, it is recommended to focus on promoting ads, offers, and coupons available on platforms such as Amazon, Flipkart, and Myntra.
