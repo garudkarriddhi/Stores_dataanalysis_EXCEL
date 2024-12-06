@@ -18,7 +18,8 @@ https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/Vrinda%20S
 
 ## Dashboard Link:
 https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/dashboard_image.png
-"C:\Users\HP\OneDrive\Desktop\Excel Project\dashboard_image.png"
+![dashboard_image](https://github.com/user-attachments/assets/ee89f7ff-698d-42aa-adc1-b142f95a61c4)
+
 ## Insights:
 Women are more likely to buy compared to men (~65%)
 Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
