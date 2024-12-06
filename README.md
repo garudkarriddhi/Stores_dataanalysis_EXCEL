@@ -6,7 +6,7 @@ To create an annual report of the Vruda Clothing Stores, so that the owner can f
 Data used from Vrida stores: 
 https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/Vrinda%20Store.xlsx
 
-##Questions (KPIs):
+## Questions (KPIs):
 • Compare the sales and orders using single chart.
 • Which month got the highest sales and orders?
 • Who purchased more - Men or Women?
@@ -16,14 +16,14 @@ https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/Vrinda%20S
 • Which Channel is contributing maximum to the sales?
 • Highest selling category?
 
-##Dashboard Link:
+## Dashboard Link:
 https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/dashboard_image.png
 
-##Insights:
+## Insights:
 Women are more likely to buy compared to men (~65%)
 Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
 Adult age group (30-49 yrs) is maximum contributing (~50%)
 Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-##Conclusion:
+## Conclusion:
 The analysis concludes that the targeted audience mostly consists of women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. To effectively engage this demographic, it is recommended to focus on promoting ads, offers, and coupons available on platforms such as Amazon, Flipkart, and Myntra.
