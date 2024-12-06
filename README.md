@@ -15,4 +15,5 @@ Questions (KPIs):
 • Relation between age and gender based on number of orders.
 • Which Channel is contributing maximum to the sales?
 • Highest selling category?
-Dashboard Link
+Dashboard Link:
+https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/dashboard_image.png
