@@ -5,3 +5,14 @@ To create an annual report of the Vruda Clothing Stores, so that the owner can f
 
 Data used from Vrida stores: 
 https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/Vrinda%20Store.xlsx
+
+Questions (KPIs):
+• Compare the sales and orders using single chart.
+• Which month got the highest sales and orders?
+• Who purchased more - Men or Women?
+• What are different order status?
+• List top 10 states contributingto the sales?
+• Relation between age and gender based on number of orders.
+• Which Channel is contributing maximum to the sales?
+• Highest selling category?
+Dashboard Link
