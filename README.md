@@ -18,6 +18,7 @@ https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/Vrinda%20S
 
 ## Dashboard Link:
 https://github.com/garudkarriddhi/Stores_dataanalysis_EXCEL/blob/main/dashboard_image.png
+
 ![dashboard_image](https://github.com/user-attachments/assets/ee89f7ff-698d-42aa-adc1-b142f95a61c4)
 
 ## Insights:
